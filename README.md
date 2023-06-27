@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sturkie
-- 👀 I’m interested in networks, embedded systems, and unit testing
-- 🌱 I’m currently learning basic machine learning concepts and how to work with Arduino
-- 💞️ I’m currently working on an Arduino project and refreshing on old skills
+- 🔍 I majored in Computer Engineering from UC Riverside and have networking certifications
+- 👀 I’m interested in embedded systems, OOP programming, and networks
+- 🌱 I’m currently learning SQL, and JavaScript/HTML/CSS
+- 💞️ I’m currently working on an Arduino project and refreshing on Java OOP
 
 <!---
 - 📫
